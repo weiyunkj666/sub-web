@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://oksubconver-weiyunkj666.cloud.okteto.net/sub?" }],
+        backendOptions: [{ value: "https://weiyunkj-2.herokuapp.com/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
