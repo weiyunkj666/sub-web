@@ -372,8 +372,8 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: "https://weiyunkj-2.herokuapp.com/?sub",
-        remoteConfig: "",
+        customBackend: "https://weiyunkj-2.herokuapp.com/sub?",
+        remoteConfig: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini",
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
