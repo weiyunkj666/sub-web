@@ -255,7 +255,8 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subapi.9990202.xyz/sub?" },
+        backendOptions: [
+          { value: "https://subapi.9990202.xyz/sub?" },
           { value: "https://subapi1.9990202.xyz/sub?" },
           { value: "https://subapi2.9990202.xyz/sub?" },
         ],
@@ -375,7 +376,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: "https://subapi1.9990202.xyz/sub?",
+        customBackend: "",
         remoteConfig: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini",
         excludeRemarks: "",
         includeRemarks: "",
