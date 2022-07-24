@@ -376,7 +376,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: "",
+        customBackend: "https://subapi1.9990202.xyz/sub?",
         remoteConfig: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini",
         excludeRemarks: "",
         includeRemarks: "",
