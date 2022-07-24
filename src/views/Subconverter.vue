@@ -372,7 +372,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: "",
+        customBackend: "https://weiyunkj-2.herokuapp.com/?sub",
         remoteConfig: "",
         excludeRemarks: "",
         includeRemarks: "",
