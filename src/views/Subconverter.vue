@@ -255,11 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [              {
-                label: "自建",
-                value:
-                  "https://subapi.9990202.xyz/sub?"
-              }],
+        backendOptions: [{ value: "https://subapi.9990202.xyz/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
